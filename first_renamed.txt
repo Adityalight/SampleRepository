@@ -1,0 +1,6 @@
+this is version 1 of my project
+I want this to go into commit 2 separately
+Just another try master
+This is changed now
+asddfgs
+this is from master
